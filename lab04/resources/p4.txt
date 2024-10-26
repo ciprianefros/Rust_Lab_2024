@@ -1,0 +1,10 @@
+# This is an example of the hosts file
+# Each entry should be an IP address followed by the hostname
+
+127.0.0.1       localhost
+127.0.0.1       example.local
+192.168.1.10    myserver.local
+10.0.0.5        testsite.local
+
+# Uncomment the following line to block a site
+# 0.0.0.0       blockedsite.com
